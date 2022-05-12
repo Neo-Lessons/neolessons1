@@ -5,4 +5,4 @@
 Documentation
 -------------
 
-Documentation can be found `here <https://neolessons1.readthedocs.io/en/latest/>`.
+Documentation can be found [here](https://neolessons1.readthedocs.io/en/latest/).
